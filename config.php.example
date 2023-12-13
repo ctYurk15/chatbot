@@ -1,9 +1,9 @@
 <?php
 
-$host="localhost";
-$user="root";
-$pass="root";
-$db="chatbot";
+$host="HOST";
+$user="USER";
+$pass="PASS";
+$db="DBNAME";
 
 $con=mysqli_connect($host,$user,$pass,$db);
 
